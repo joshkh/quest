@@ -1,0 +1,9 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+/resources/public/vendor/
+/resources/public/css
+out
+.idea/
+*.iml
